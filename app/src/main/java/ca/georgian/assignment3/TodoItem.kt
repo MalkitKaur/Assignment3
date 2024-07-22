@@ -1,4 +1,5 @@
-package ca.georgian.assignment3
+package ca.georgian.malkitassignment3
+
 
 data class TodoItem(
     val taskName: String,
